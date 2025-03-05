@@ -9,7 +9,7 @@ Welcome / Bem-vinda(o)
 
 ---
 
-# 🏷️ ComandApp – Gestão de Comandas para Lavanderias
+# 📝 ComandApp – Gestão de Comandas para Lavanderias
 
 ## 📌 Sobre o Projeto
 
@@ -55,7 +55,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ### LinkedIn📧: [Mikael Espínola](https://www.linkedin.com/in/mikaelespinola) / Email: mikaelespinolaa@gmail.com
 
 ---
-# 🏷️ ComandApp – Laundry Ticket Management
+# 📝 ComandApp – Laundry Ticket Management
 
 ## 📌 About the Project
 
